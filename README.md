@@ -13,7 +13,7 @@ To build a decentralized and tamper-proof system for document authenticity verif
 - Event logs for all uploads and verifications, ensuring auditability
 
 ## Future Scope
-- Role-based verification for multiple verifiers
+- Role-based verification for multiple verifiers 
 - Support for document revocation or update with new hashes
 - Integration with IPFS or other decentralized storage solutions
 - Frontend interface for easy document upload and verification status checks
