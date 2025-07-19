@@ -16,7 +16,7 @@ To build a decentralized and tamper-proof system for document authenticity verif
 - Role-based verification for multiple verifiers 
 - Support for document revocation or update with new hashes
 - Integration with IPFS or other decentralized storage solutions
-- Frontend interface for easy document upload and verification status checks
+- Frontend interface for easy document upload and verification status checks and retracing document .
 
 ## Contract details 
 0x3F912c48C2D9466a1310fB2B6Df58BfaAB8DF474![alt text](image.png)
