@@ -9,7 +9,7 @@ To build a decentralized and tamper-proof system for document authenticity verif
 ## Key Features
 - Upload document hashes securely on-chain
 - Owner-only verification process for document authenticity
-- Publicly accessible verification status for any document hash
+- Publicly accessible verification status for any document hash and document validation
 - Event logs for all uploads and verifications, ensuring auditability
 
 ## Future Scope
