@@ -7,7 +7,7 @@ DocumentVerificationSystem is a smart contract that enables secure on-chain veri
 To build a decentralized and tamper-proof system for document authenticity verification, reducing fraud and increasing trust in digital document handling .
 
 ## Key Features
-- Upload document hashes securely on-chain
+- Upload document hashes securely on-chain .
 - Owner-only verification process for document authenticity .
 - Publicly accessible verification status for any document hash and document validation .
 - Event logs for all uploads and verifications, ensuring auditability .
