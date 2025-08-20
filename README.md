@@ -1,4 +1,4 @@
-# DocumentVerificationSystem .
+# DocumentVerificationSystem . 
 
 ## Project Description 
 DocumentVerificationSystem is a smart contract that enables secure on-chain verification of documents via their hash signatures. Uploaders can register document hashes, and authorized verifiers can mark documents as verified, ensuring immutability and transparency .
