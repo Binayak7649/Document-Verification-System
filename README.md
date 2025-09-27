@@ -11,7 +11,7 @@ To build a decentralized and tamper-proof system for document authenticity verif
 - Owner-only verification process for document authenticity  .
 - Publicly accessible verification status for any document hash and document validation .
 - Event logs for all uploads and verifications, ensuring auditability  .
-
+ 
 ## Future Scope
 - Role-based verification for multiple verifiers . 
 - Support for document revocation or update with new hashes .
